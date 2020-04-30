@@ -8,7 +8,7 @@
 
 
 
-##Características do projeto: 
+## Características do projeto: 
 
 - [x] Projeto estático 
 - [x] Projeto totalmente responsivo
